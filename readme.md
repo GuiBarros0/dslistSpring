@@ -29,13 +29,6 @@ A aplicação consiste em uma lista de jogos organizado por gêneros, sendo poss
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
 
 # clonar repositório
 git clone https://github.com/guibarros0/dslist
