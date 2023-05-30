@@ -2,7 +2,7 @@
 # Projeto DSList - Intensivão Java Spring 
 Projeto desenvolvido em intensivão, uma lista de jogos separados por generos, sendo possivel mudar a ordem de posição.
 aqui segue os conhecimentos abordados nesse projeto.
-|• Conceitos |• Sistemas web e recursos
+- • Conceitos |• Sistemas web e recursos
 |• Cliente/servidor, HTTP, JSON
 |• Padrão Rest para API web
 |• Estruturação de projeto Spring Rest
